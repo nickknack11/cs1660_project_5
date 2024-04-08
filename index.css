@@ -1,0 +1,19 @@
+body
+{
+    background-image: url("background.jpg");
+    background-size: cover; 
+}
+#title
+{
+    margin-left: 425px;
+}
+#main_div
+{
+    background-image: url("danmahoney.jpg");
+    background-size: cover; 
+    border: 2px black solid;
+    height: 400px;
+    width:400px;
+    margin-left:400px;
+    margin-top: 1%;
+}
